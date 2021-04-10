@@ -1,0 +1,6 @@
+/mnt/GithubRepository/WeiMuYang/03-GDB/03-code/03-Demo3/build/CMakeFiles/rebuild_cache.dir
+/mnt/GithubRepository/WeiMuYang/03-GDB/03-code/03-Demo3/build/CMakeFiles/Demo.dir
+/mnt/GithubRepository/WeiMuYang/03-GDB/03-code/03-Demo3/build/CMakeFiles/edit_cache.dir
+/mnt/GithubRepository/WeiMuYang/03-GDB/03-code/03-Demo3/build/math/CMakeFiles/rebuild_cache.dir
+/mnt/GithubRepository/WeiMuYang/03-GDB/03-code/03-Demo3/build/math/CMakeFiles/MathFunctions.dir
+/mnt/GithubRepository/WeiMuYang/03-GDB/03-code/03-Demo3/build/math/CMakeFiles/edit_cache.dir
