@@ -12,6 +12,7 @@
 8|list|查看当前断点处的代码<br>l + 向后显示10行<br>l - 像前显示10行|`l`<br>`l+`<br>`l-`
 9|print|输出变量和修改当前内存中的变量值|`print 变量名`<br>`p  变量名`
 10|ptype|输出变量的类型|`ptype 变量名`
+11 | info breakpoints| 显示所有断点| `info breakpoints`
 
 ## 1 常用命令   
 1. run命令，简写r，启动程序，Ctrl+C让GDB中断下来   
