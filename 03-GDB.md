@@ -1,5 +1,5 @@
 # [GDB](./)   
-## [GDB资料整理](./02-gdb-study)      [img](./02-gdb-study/img)    [code](./03-code)       
+## [GDB资料整理](./01-gdb-study)      [img](./01-gdb-study/img)    [code](./02-code)       
 
 1. 命名时用编号，有代码的话最好和代码文件链接起来     
 2. 命名范例：01-多线程-qmutex用法.md  
